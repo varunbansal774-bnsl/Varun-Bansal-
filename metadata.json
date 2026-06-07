@@ -1,0 +1,6 @@
+{
+  "name": "Supplement Scoop & Nutrition Calculator",
+  "description": "An elegant, interactive utility to calculate and compare supplement nutrition, protein concentration per scoop, fat content, bioavailability, and additives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
